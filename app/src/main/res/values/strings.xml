@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EatallDay</string>
+    <string-array name="FoodTypeSpinner">
+        <item>อาหารคาว</item>
+        <item>อาหารหวาน</item>
+        <item>ของว่างระหว่างวัน</item>
+        <item>เครื่องดื่ม</item>
+    </string-array>
+</resources>
+
